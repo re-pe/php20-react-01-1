@@ -17,6 +17,11 @@
     "plugins": [
         "react"
     ],
+    "settings": {
+        "react": {
+            "version": "latest"
+        }
+    },
     "rules": {
         "function-paren-newline": ["error", "consistent"],
         "object-curly-newline": ["error", {
